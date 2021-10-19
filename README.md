@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adioby
 - 👀 I’m interested in Web and Mobile developpment
-- 🌱 I’m currently learning IONIC, REACT, JAVA and WORLDPRESS
+- 🌱 I’m currently learning IONIC, REACT, JAVA, KOTLIN, PYTHON and WORLDPRESS
 - 💞️ I’m looking to collaborate on these technologies
 - 📫 How to reach me adioby@gmail.com
 
